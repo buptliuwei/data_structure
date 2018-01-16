@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1516085656 source:j:\data_structure\¾²Ì¬Á´±í\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<io.h>
+	<math.h>
+	<time.h>
+
