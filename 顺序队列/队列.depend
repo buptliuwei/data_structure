@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1516343323 source:j:\data_structure\队列\顺序队列_queue.c
+	<stdio.h>
+	<stdlib.h>
+	<io.h>
+	<math.h>
+	<time.h>
+
+1516347842 source:j:\data_structure\队列\链队列_linkqueue.c
+	<stdio.h>
+
