@@ -1,2 +1,3 @@
-跟着《大话数据结构》学习，整理的代码。
-后面新学习的数据结构内容也会加进来。
+Some data_structure code
+leetcode
+scripts
